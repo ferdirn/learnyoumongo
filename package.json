@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ferdirn/learnyoumongo/issues"
   },
-  "homepage": "https://github.com/ferdirn/learnyoumongo#readme"
+  "homepage": "https://github.com/ferdirn/learnyoumongo#readme",
+  "dependencies": {
+    "mongodb": "^2.0.49"
+  }
 }
